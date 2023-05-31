@@ -1,4 +1,6 @@
-<img align="center" src="https://fivemerrors.com/snail.png">
+<p align="center">
+  <img src="https://fivemerrors.com/snail.png" width="20rem">
+</p>
 <h1 align="center">FiveM Errors</h1>
 <p align="center">The community based error website for FiveM error codes,
 find out what error codes mean,and see how often errors are reported.</p>
