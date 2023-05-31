@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://fivemerrors.com/snail.png" width="100px">
+  <img src="https://fivemerrors.com/snail.png" width="300px">
 </p>
 <h1 align="center">FiveM Errors</h1>
 <p align="center">The community based error website for FiveM error codes,
